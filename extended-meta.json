@@ -1,4 +1,5 @@
 {
+    "verification":"0420849802c86a9d96",
     "info": {
     "url_png_icon_64x64": "https://wafflepool-cardano.github.io/logos/64by64.png",
     "url_png_logo": "https://wafflepool-cardano.github.io/logos/logo.png",
@@ -8,7 +9,7 @@
         "telegram_handle": "wafflestakepool",
         "facebook_handle": "",
         "youtube_handle": "",
-        "twitch_handle": "0420849802c86a9d96",
+        "twitch_handle": "",
         "discord_handle": "",
         "github_handle": ""
         }
